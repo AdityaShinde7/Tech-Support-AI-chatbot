@@ -1,0 +1,2 @@
+# Tech Support AI chatbot
+ Developed Technical Support RAG agent using Autogen that utilises project documentation and previous tech support response data to provide intervention-free query resolution and system support. The AI agents are run locally by open-source LLM like Mistral, Ollama and Zephyr which are lightweight and free increasing the cost-effectiveness and response speed of the solution.
